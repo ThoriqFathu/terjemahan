@@ -1023,8 +1023,8 @@ if selected == "Translate":
     # with st.container() as container:
     mydb = mysql.connector.connect(
         host="localhost",
-        user="root",
-        password="",
+        user="mbkm",
+        password="123",
         database="skripsi"
         # database="madureseset",
     )
